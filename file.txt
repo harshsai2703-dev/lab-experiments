@@ -1,0 +1,3 @@
+hello world
+Welcome to c programming
+this is a text file
